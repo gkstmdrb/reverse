@@ -42,3 +42,5 @@ T번 반복하면서 수를 입력받고, 해당 수와 그 수를 뒤집은 값
 	}	
 
 ```
+![image](https://github.com/gkstmdrb/reverse/assets/114748816/65186252-e5c7-4789-a35d-533c2c021412)
+
